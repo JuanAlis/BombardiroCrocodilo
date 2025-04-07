@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+	/* Modern Color Palette */
+	--brand-bg: #ffffff;
+	--brand-text-dark: #1f2937;
+	--brand-text-light: #6b7280;
+	--brand-primary: #3b82f6;
+	--brand-primary-dark: #2563eb;
+	--brand-accent-orange: #f97316; /* Orange 500 for CTA */
+	--brand-accent-orange-dark: #ea580c; /* Orange 600 for CTA hover */
+	--brand-black: #111827;
+	--border-color: #e5e7eb;
+}
